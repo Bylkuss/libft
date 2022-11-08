@@ -1,7 +1,8 @@
 # LIBFT
-# README.md template credit: #https://github.com/GHebert42
+## README.md template credit: #https://github.com/GHebert42
 # Libft #
-__A list of prototype from *libft* and their uses__
+
+__list of the most used fuctions from libc rebuilt and there are their protypes and uses ⤵️
 
 - - - -
 # Table
