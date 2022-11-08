@@ -1,5 +1,5 @@
 # LIBFT
-# README.md template credit: @ghebert42
+# README.md template credit: #https://github.com/GHebert42
 # Libft #
 __A list of prototype from *libft* and their uses__
 
