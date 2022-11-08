@@ -1,8 +1,8 @@
 # LIBFT
 ## README.md template credit: https://github.com/GHebert42
-# Libft #
+# Libft < The first project of the 42 common core >
 
-__list of the most used fuctions from libc rebuilt and there are their protypes and uses ⤵️
+__Desc: list of the most used fuctions from libc rebuilt by me. Here are the protypes and the uses ⤵️
 
 - - - -
 # Table
