@@ -1,5 +1,5 @@
 # LIBFT
-## README.md template credit: #https://github.com/GHebert42
+## README.md template credit: https://github.com/GHebert42
 # Libft #
 
 __list of the most used fuctions from libc rebuilt and there are their protypes and uses ⤵️
